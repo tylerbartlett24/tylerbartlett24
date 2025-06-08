@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Tyler 👋
 
 <!--
 **tylerbartlett24/tylerbartlett24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I've recently completed the Boot.dev backend development course, and I also have a Google data analytics certificate.
+I've recently completed the Boot.dev backend development course, and I also have a Google data analytics certificate. I was once an aspiring physicist, but I burned out on academia during the pandemic. I'm currently working my way through "Deep LEarning with Python by Francois Chollet.
